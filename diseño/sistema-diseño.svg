@@ -26,11 +26,11 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1.4142136"
-     inkscape:cx="999.43785"
-     inkscape:cy="-608.6217"
+     inkscape:zoom="1"
+     inkscape:cx="4282.1791"
+     inkscape:cy="996.31774"
      inkscape:document-units="px"
-     inkscape:current-layer="layer46"
+     inkscape:current-layer="layer49"
      showgrid="true"
      inkscape:window-width="1920"
      inkscape:window-height="1025"
@@ -2487,6 +2487,16 @@ uuOuisiEkEvDscjpRkhZ2PmaoHQbTinAP/R//9k=
              id="g3859"
              inkscape:groupmode="layer"
              style="display:inline" />
+          <g
+             inkscape:groupmode="layer"
+             id="layer48"
+             inkscape:label="Separador">
+            <path
+               style="opacity:1;fill:none;stroke:#e6e6e6;stroke-width:1.05833328;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+               d="m 93.13333,-7.7998242 h 76.2"
+               id="path11279"
+               inkscape:connector-curvature="0" />
+          </g>
           <flowRoot
              transform="matrix(0.26458333,0,0,0.26458333,-25.884949,-139.92846)"
              style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;opacity:1;fill:#000000;fill-opacity:1;stroke:none"
@@ -5063,6 +5073,53 @@ uuOuisiEkEvDscjpRkhZ2PmaoHQbTinAP/R//9k=
            inkscape:label="Navegación"
            id="g35"
            inkscape:groupmode="layer">
+          <g
+             inkscape:groupmode="layer"
+             id="layer49"
+             inkscape:label="Menú Volver">
+            <g
+               id="g11691">
+              <rect
+                 y="115.8069"
+                 x="1075.3225"
+                 height="13.758333"
+                 width="83.60833"
+                 id="rect11582"
+                 style="display:inline;opacity:1;fill:#ffffff;fill-opacity:1;stroke:#e6e6e6;stroke-width:1.05833328;stroke-miterlimit:4;stroke-dasharray:none" />
+              <flowRoot
+                 xml:space="preserve"
+                 id="flowRoot8421-2"
+                 style="font-style:normal;font-weight:normal;font-size:16px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;opacity:1;fill:#4d4d4d;fill-opacity:1;stroke:none"
+                 transform="matrix(0.26458333,0,0,0.26458333,690.52521,-468.05044)"><flowRegion
+                   id="flowRegion8417-2"
+                   style="font-size:16px;fill:#4d4d4d"><rect
+                     id="rect8415-6"
+                     width="72.140869"
+                     height="19.529819"
+                     x="1488"
+                     y="2224"
+                     style="font-size:16px;fill:#4d4d4d" /></flowRegion><flowPara
+                   id="flowPara8419-9"
+                   style="font-size:16px;text-align:start;text-anchor:start;fill:#4d4d4d">Volver</flowPara></flowRoot>              <path
+                 transform="scale(-1,1)"
+                 inkscape:transform-center-y="-1.0369804e-05"
+                 inkscape:transform-center-x="0.44725279"
+                 d="m -1079.5001,122.77206 -1.3419,0.77476 -1.3419,0.77475 v -1.54951 -1.54952 l 1.3419,0.77476 z"
+                 inkscape:randomized="0"
+                 inkscape:rounded="0"
+                 inkscape:flatsided="false"
+                 sodipodi:arg2="1.0471976"
+                 sodipodi:arg1="0"
+                 sodipodi:r2="0.89461428"
+                 sodipodi:r1="1.7892286"
+                 sodipodi:cy="122.77206"
+                 sodipodi:cx="-1081.2893"
+                 sodipodi:sides="3"
+                 id="path8423-0"
+                 style="opacity:1;fill:#808080;fill-opacity:1;stroke:none;stroke-width:1.05833328;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+                 sodipodi:type="star" />
+            </g>
+          </g>
           <g
              inkscape:groupmode="layer"
              id="layer21"
