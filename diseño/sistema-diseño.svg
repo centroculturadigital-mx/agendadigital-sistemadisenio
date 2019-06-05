@@ -26,11 +26,11 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1"
-     inkscape:cx="4472.2385"
-     inkscape:cy="-342.79898"
+     inkscape:zoom="0.70710678"
+     inkscape:cx="4292.7645"
+     inkscape:cy="-1141.2344"
      inkscape:document-units="px"
-     inkscape:current-layer="layer35"
+     inkscape:current-layer="layer42"
      showgrid="true"
      inkscape:window-width="1920"
      inkscape:window-height="1025"
@@ -225,7 +225,7 @@
          ry="0"
          y="263.13339"
          x="679.49164"
-         height="457.20004"
+         height="220.13341"
          width="332.27521"
          id="rect7369"
          style="display:inline;opacity:1;fill:#ffffff;stroke:#e6e6e6;stroke-width:2.53120399;stroke-miterlimit:4;stroke-dasharray:none" />
@@ -269,7 +269,7 @@
          style="display:inline;opacity:1;fill:#ffffff;stroke:#e6e6e6;stroke-width:2.53120399;stroke-miterlimit:4;stroke-dasharray:none"
          id="rect7616"
          width="332.27521"
-         height="457.20004"
+         height="220.13341"
          x="1049.3802"
          y="263.13339"
          ry="0" />
@@ -285,7 +285,27 @@
              width="583.24231"
              id="rect7618" /></flowRegion><flowPara
            style="font-weight:bold;font-size:60.16485214px"
-           id="flowPara7622">Formularios</flowPara></flowRoot>    </g>
+           id="flowPara7622">Formularios</flowPara></flowRoot>      <rect
+         ry="0"
+         y="517.13348"
+         x="1049.3802"
+         height="220.13341"
+         width="332.27521"
+         id="rect7905"
+         style="display:inline;opacity:1;fill:#ffffff;stroke:#e6e6e6;stroke-width:2.53120399;stroke-miterlimit:4;stroke-dasharray:none" />
+      <flowRoot
+         xml:space="preserve"
+         id="flowRoot7913"
+         style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;opacity:1;fill:#000000;fill-opacity:1;stroke:none"
+         transform="matrix(0.46908155,0,0,0.46908155,1055.8206,506.57551)"><flowRegion
+           id="flowRegion7909"><rect
+             id="rect7907"
+             width="583.24231"
+             height="82.59832"
+             x="63.999996"
+             y="64.000061" /></flowRegion><flowPara
+           id="flowPara7911"
+           style="font-weight:bold;font-size:60.16485214px">Botones</flowPara></flowRoot>    </g>
     <g
        inkscape:groupmode="layer"
        id="layer2"
@@ -3516,12 +3536,194 @@ uuOuisiEkEvDscjpRkhZ2PmaoHQbTinAP/R//9k=
         </g>
         <g
            inkscape:groupmode="layer"
+           id="layer37"
+           inkscape:label="Botones">
+          <g
+             inkscape:groupmode="layer"
+             id="layer38"
+             inkscape:label="Botón Acción">
+            <g
+               id="g7992">
+              <rect
+                 y="597.22168"
+                 x="1088.7755"
+                 height="13.57428"
+                 width="67.45356"
+                 id="rect7925"
+                 style="display:inline;opacity:1;fill:#000000;stroke:#000000;stroke-width:1.05833328;stroke-miterlimit:4;stroke-dasharray:none" />
+              <rect
+                 style="display:inline;opacity:1;fill:#666666;stroke:#666666;stroke-width:1.05833328;stroke-miterlimit:4;stroke-dasharray:none"
+                 id="rect7915"
+                 width="67.45356"
+                 height="13.57428"
+                 x="1088.2463"
+                 y="596.6925" />
+              <flowRoot
+                 transform="matrix(0.1024747,0,0,0.10353777,956.90198,559.11654)"
+                 style="font-style:normal;font-weight:normal;font-size:54.79784393px;line-height:1.75;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;opacity:1;fill:#ffffff;fill-opacity:1;stroke:none"
+                 id="flowRoot7923"
+                 xml:space="preserve"><flowRegion
+                   style="font-size:54.79784393px;line-height:1.75;text-align:center;text-anchor:middle;fill:#ffffff"
+                   id="flowRegion7919"><rect
+                     style="font-size:54.79784393px;line-height:1.75;text-align:center;text-anchor:middle;fill:#ffffff"
+                     y="384.00006"
+                     x="1312"
+                     height="91.568901"
+                     width="586.20825"
+                     id="rect7917" /></flowRegion><flowPara
+                   id="flowPara7921"
+                   style="font-size:54.79784393px;text-align:center;text-anchor:middle;fill:#ffffff">Texto de botón</flowPara></flowRoot>            </g>
+            <flowRoot
+               transform="matrix(0.1024747,0,0,0.10353777,956.90198,590.86657)"
+               style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.75;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;opacity:1;fill:#ffffff;fill-opacity:1;stroke:none"
+               id="flowRoot7935"
+               xml:space="preserve"><flowRegion
+                 style="line-height:1.75;text-align:center;text-anchor:middle;fill:#ffffff"
+                 id="flowRegion7931"><rect
+                   style="line-height:1.75;text-align:center;text-anchor:middle;fill:#ffffff"
+                   y="384.00006"
+                   x="1312"
+                   height="91.568901"
+                   width="586.20825"
+                   id="rect7929" /></flowRegion><flowPara
+                 id="flowPara7933"
+                 style="font-size:54.5185318px;text-align:center;text-anchor:middle;fill:#ffffff">Texto de botón</flowPara></flowRoot>            <flowRoot
+               xml:space="preserve"
+               id="flowRoot8065"
+               style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.75;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;opacity:1;fill:#ffffff;fill-opacity:1;stroke:none"
+               transform="matrix(0.1024747,0,0,0.10353777,956.90198,633.19993)"><flowRegion
+                 id="flowRegion8061"
+                 style="line-height:1.75;text-align:center;text-anchor:middle;fill:#ffffff"><rect
+                   id="rect8059"
+                   width="586.20825"
+                   height="91.568901"
+                   x="1312"
+                   y="384.00006"
+                   style="line-height:1.75;text-align:center;text-anchor:middle;fill:#ffffff" /></flowRegion><flowPara
+                 style="font-size:54.5185318px;text-align:center;text-anchor:middle;fill:#ffffff"
+                 id="flowPara8063">Texto de botón</flowPara></flowRoot>          </g>
+          <g
+             inkscape:groupmode="layer"
+             id="layer40"
+             inkscape:label="Botón Ícono">
+            <rect
+               style="display:inline;opacity:1;fill:#000000;stroke:#000000;stroke-width:1.05833328;stroke-miterlimit:4;stroke-dasharray:none"
+               id="rect7925-8"
+               width="67.45356"
+               height="32.26376"
+               x="1088.7755"
+               y="630.57452" />
+            <rect
+               y="629.31677"
+               x="1088.2463"
+               height="32.26376"
+               width="67.45356"
+               id="rect7915-0"
+               style="display:inline;opacity:1;fill:#666666;stroke:#666666;stroke-width:1.05833328;stroke-miterlimit:4;stroke-dasharray:none" />
+            <flowRoot
+               xml:space="preserve"
+               id="flowRoot7923-9"
+               style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.75;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;opacity:1;fill:#ffffff;fill-opacity:1;stroke:none"
+               transform="matrix(0.1024747,0,0,0.10353777,956.90199,610.97491)"><flowRegion
+                 id="flowRegion7919-7"
+                 style="line-height:1.75;text-align:center;text-anchor:middle;fill:#ffffff"><rect
+                   id="rect7917-9"
+                   width="586.20825"
+                   height="91.568901"
+                   x="1312"
+                   y="384.00006"
+                   style="line-height:1.75;text-align:center;text-anchor:middle;fill:#ffffff" /></flowRegion><flowPara
+                 style="font-size:54.79784393px;text-align:center;text-anchor:middle;fill:#ffffff"
+                 id="flowPara7921-9">Texto de botón</flowPara></flowRoot>            <g
+               id="g8057"
+               transform="matrix(0.56046553,0,0,0.56046553,538.41899,302.42171)"
+               style="fill:#ffffff;stroke:#ffffff;stroke-width:1.78423107">
+              <path
+                 inkscape:connector-curvature="0"
+                 id="circle8036"
+                 d="m 1033.7557,598.38915 a 10.810783,10.810783 0 0 0 0,15.28866 10.810783,10.810783 0 0 0 15.2886,0 10.810783,10.810783 0 0 0 0,-15.28866 10.810783,10.810783 0 0 0 -15.2886,0 z m 0.8269,0.82691 a 9.6414787,9.6414787 0 0 1 13.6348,0 9.6414787,9.6414787 0 0 1 0,13.63484 9.6414787,9.6414787 0 0 1 -13.6352,3.5e-4 9.6414787,9.6414787 0 0 1 4e-4,-13.63519 z"
+                 style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:1.88831115;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+              <path
+                 sodipodi:nodetypes="ccccccccccccc"
+                 inkscape:connector-curvature="0"
+                 id="rect8040"
+                 d="m 1033.532,598.93434 7.1978,7.19781 -6.8236,6.82361 0.9457,0.94566 6.8236,-6.82361 6.4494,6.44945 0.9457,-0.94568 -6.4494,-6.44945 6.8236,-6.82363 -0.9457,-0.94566 -6.8236,6.82363 -7.1978,-7.1978 z"
+                 style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:1.88831115;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+            </g>
+            <rect
+               y="679.01959"
+               x="1088.7755"
+               height="26.152163"
+               width="67.45356"
+               id="rect8067"
+               style="display:inline;opacity:1;fill:#000000;stroke:#000000;stroke-width:1.05833328;stroke-miterlimit:4;stroke-dasharray:none" />
+            <rect
+               style="display:inline;opacity:1;fill:#666666;stroke:#666666;stroke-width:1.05833328;stroke-miterlimit:4;stroke-dasharray:none"
+               id="rect8069"
+               width="67.45356"
+               height="26.152163"
+               x="1088.2463"
+               y="678.00012" />
+            <flowRoot
+               transform="matrix(0.1024747,0,0,0.10353777,949.07712,646.95826)"
+               style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.75;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;opacity:1;fill:#ffffff;fill-opacity:1;stroke:none"
+               id="flowRoot8077"
+               xml:space="preserve"><flowRegion
+                 style="line-height:1.75;text-align:center;text-anchor:middle;fill:#ffffff"
+                 id="flowRegion8073"><rect
+                   style="line-height:1.75;text-align:center;text-anchor:middle;fill:#ffffff"
+                   y="384.00006"
+                   x="1312"
+                   height="91.568901"
+                   width="586.20825"
+                   id="rect8071" /></flowRegion><flowPara
+                 id="flowPara8075"
+                 style="font-size:54.79784393px;text-align:center;text-anchor:middle;fill:#ffffff">Texto de botón</flowPara></flowRoot>            <g
+               style="fill:#ffffff;stroke:#ffffff;stroke-width:2.35872293"
+               transform="matrix(-0.42395823,0,0,0.42395823,1586.1468,434.89144)"
+               id="g8083">
+              <path
+                 style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:2.496315;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+                 d="m 1033.7557,598.38915 a 10.810783,10.810783 0 0 0 0,15.28866 10.810783,10.810783 0 0 0 15.2886,0 10.810783,10.810783 0 0 0 0,-15.28866 10.810783,10.810783 0 0 0 -15.2886,0 z m 0.8269,0.82691 a 9.6414787,9.6414787 0 0 1 13.6348,0 9.6414787,9.6414787 0 0 1 0,13.63484 9.6414787,9.6414787 0 0 1 -13.6352,3.5e-4 9.6414787,9.6414787 0 0 1 4e-4,-13.63519 z"
+                 id="path8079"
+                 inkscape:connector-curvature="0" />
+              <path
+                 style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:2.496315;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+                 d="m 1033.532,598.93434 7.1978,7.19781 -6.8236,6.82361 0.9457,0.94566 6.8236,-6.82361 6.4494,6.44945 0.9457,-0.94568 -6.4494,-6.44945 6.8236,-6.82363 -0.9457,-0.94566 -6.8236,6.82363 -7.1978,-7.1978 z"
+                 id="path8081"
+                 inkscape:connector-curvature="0"
+                 sodipodi:nodetypes="ccccccccccccc" />
+            </g>
+          </g>
+        </g>
+        <g
+           inkscape:groupmode="layer"
            id="layer34"
            inkscape:label="Formularios">
           <g
              inkscape:groupmode="layer"
+             id="layer42"
+             inkscape:label="Etiqueta">
+            <flowRoot
+               transform="matrix(0.1024747,0,0,0.10353777,956.90198,308.82062)"
+               style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.75;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;opacity:1;fill:#000000;fill-opacity:1;stroke:none"
+               id="flowRoot8300"
+               xml:space="preserve"><flowRegion
+                 style="line-height:1.75"
+                 id="flowRegion8296"><rect
+                   style="line-height:1.75"
+                   y="384.00006"
+                   x="1312"
+                   height="91.568901"
+                   width="586.20825"
+                   id="rect8294" /></flowRegion><flowPara
+                 id="flowPara8298"
+                 style="font-weight:bold;font-size:54.79784393px">Nombre campo:</flowPara></flowRoot>          </g>
+          <g
+             inkscape:groupmode="layer"
              id="layer35"
-             inkscape:label="Selector">
+             inkscape:label="Selector"
+             style="display:inline">
             <rect
                y="356.2756"
                x="1220.0653"
@@ -3557,7 +3759,7 @@ uuOuisiEkEvDscjpRkhZ2PmaoHQbTinAP/R//9k=
                sodipodi:cx="413.27921"
                sodipodi:sides="3"
                id="path1888-4"
-               style="display:inline;opacity:1;fill:#000000;stroke:#000000;stroke-width:1.05833328;stroke-miterlimit:4;stroke-dasharray:none;fill-opacity:1;stroke-opacity:1"
+               style="display:inline;opacity:1;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:1.05833328;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
                sodipodi:type="star"
                transform="rotate(90,670.57255,600.62333)" />
             <rect
@@ -3570,7 +3772,7 @@ uuOuisiEkEvDscjpRkhZ2PmaoHQbTinAP/R//9k=
             <path
                transform="matrix(0,-1,-1,0,1271.1959,776.95435)"
                sodipodi:type="star"
-               style="display:inline;opacity:1;fill:#000000;stroke:#000000;stroke-width:1.05833328;stroke-miterlimit:4;stroke-dasharray:none;fill-opacity:1;stroke-opacity:1"
+               style="display:inline;opacity:1;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:1.05833328;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
                id="path2376-9"
                sodipodi:sides="3"
                sodipodi:cx="413.27921"
@@ -3690,60 +3892,117 @@ uuOuisiEkEvDscjpRkhZ2PmaoHQbTinAP/R//9k=
                    width="586.20825"
                    id="rect2416-9" /></flowRegion><flowPara
                  id="flowPara2420-8"
-                 style="font-size:54.5185318px">Título de Lista</flowPara></flowRoot>            <rect
-               style="display:inline;opacity:1;fill:#ffffff;stroke:#000000;stroke-width:1.05833328;stroke-miterlimit:4;stroke-dasharray:none"
-               id="rect7881"
-               width="67.45356"
-               height="13.57428"
-               x="1088.2463"
-               y="376.03003" />
+                 style="font-size:54.5185318px">Título de Lista</flowPara></flowRoot>          </g>
+          <g
+             inkscape:groupmode="layer"
+             id="layer41"
+             inkscape:label="Input Número">
             <rect
-               y="376.03003"
-               x="1088.2463"
-               height="13.57428"
+               style="display:inline;opacity:1;fill:#ffffff;stroke:#000000;stroke-width:1.05833328;stroke-miterlimit:4;stroke-dasharray:none"
+               id="rect7895-8"
                width="67.45356"
-               id="rect7885"
-               style="display:inline;opacity:1;fill:#ffffff;stroke:#000000;stroke-width:1.05833328;stroke-miterlimit:4;stroke-dasharray:none" />
+               height="13.57428"
+               x="1088.2463"
+               y="420.47989" />
             <flowRoot
                xml:space="preserve"
-               id="flowRoot7893"
+               id="flowRoot8105-8"
                style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.75;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;opacity:1;fill:#000000;fill-opacity:1;stroke:none"
-               transform="matrix(0.1024747,0,0,0.10353777,956.90197,338.45398)"><flowRegion
-                 id="flowRegion7889"
+               transform="matrix(0.1024747,0,0,0.10353777,956.90198,382.904)"><flowRegion
+                 id="flowRegion8101-3"
                  style="line-height:1.75"><rect
-                   id="rect7887"
+                   id="rect8099-7"
                    width="586.20825"
                    height="91.568901"
                    x="1312"
                    y="384.00006"
                    style="line-height:1.75" /></flowRegion><flowPara
-                 style="font-size:54.5185318px;fill:#808080"
-                 id="flowPara7891">Escribir</flowPara></flowRoot>            <rect
+                 style="font-size:54.5185318px"
+                 id="flowPara8103-8">100</flowPara></flowRoot>            <path
+               inkscape:transform-center-x="-1.2958488e-05"
+               inkscape:transform-center-y="0.30551135"
+               d="m 415.39587,-17.570442 -1.5875,0.916543 -1.5875,0.916544 v -1.833087 -1.833087 l 1.5875,0.916543 z"
+               inkscape:randomized="0"
+               inkscape:rounded="0"
+               inkscape:flatsided="false"
+               sodipodi:arg2="1.0471976"
+               sodipodi:arg1="0"
+               sodipodi:r2="1.0583333"
+               sodipodi:r1="2.1166666"
+               sodipodi:cy="-17.570442"
+               sodipodi:cx="413.27921"
+               sodipodi:sides="3"
+               id="path8287"
+               style="display:inline;opacity:1;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:1.83309197;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+               sodipodi:type="star"
+               transform="matrix(0,0.57734869,-0.57734869,0,1141.3224,190.52186)" />
+            <path
+               transform="matrix(0,-0.57734869,0.57734869,0,1161.6109,663.5828)"
+               sodipodi:type="star"
+               style="display:inline;opacity:1;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:1.83309197;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+               id="path8289"
+               sodipodi:sides="3"
+               sodipodi:cx="413.27921"
+               sodipodi:cy="-17.570442"
+               sodipodi:r1="2.1166666"
+               sodipodi:r2="1.0583333"
+               sodipodi:arg1="0"
+               sodipodi:arg2="1.0471976"
+               inkscape:flatsided="false"
+               inkscape:rounded="0"
+               inkscape:randomized="0"
+               d="m 415.39587,-17.570442 -1.5875,0.916543 -1.5875,0.916544 v -1.833087 -1.833087 l 1.5875,0.916543 z"
+               inkscape:transform-center-y="-0.3055109"
+               inkscape:transform-center-x="5.6531931e-05" />
+          </g>
+          <g
+             inkscape:groupmode="layer"
+             id="layer36"
+             inkscape:label="Input texto"
+             style="display:inline">
+            <rect
                style="display:inline;opacity:1;fill:#ffffff;stroke:#000000;stroke-width:1.05833328;stroke-miterlimit:4;stroke-dasharray:none"
                id="rect7895"
                width="67.45356"
                height="13.57428"
                x="1088.2463"
-               y="399.31326" />
+               y="383.43829" />
+            <rect
+               y="360.15506"
+               x="1088.2463"
+               height="13.57428"
+               width="67.45356"
+               id="rect8085"
+               style="display:inline;opacity:1;fill:#ffffff;stroke:#000000;stroke-width:1.05833328;stroke-miterlimit:4;stroke-dasharray:none" />
             <flowRoot
-               transform="matrix(0.1024747,0,0,0.10353777,956.90197,361.73731)"
+               transform="matrix(0.1024747,0,0,0.10353777,956.90198,322.57898)"
                style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.75;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;opacity:1;fill:#000000;fill-opacity:1;stroke:none"
-               id="flowRoot7903"
+               id="flowRoot8095"
                xml:space="preserve"><flowRegion
                  style="line-height:1.75"
-                 id="flowRegion7899"><rect
+                 id="flowRegion8091"><rect
                    style="line-height:1.75"
                    y="384.00006"
                    x="1312"
                    height="91.568901"
                    width="586.20825"
-                   id="rect7897" /></flowRegion><flowPara
-                 id="flowPara7901"
-                 style="font-size:54.5185318px">Escribiendo</flowPara></flowRoot>          </g>
-          <g
-             inkscape:groupmode="layer"
-             id="layer36"
-             inkscape:label="Input texto" />
+                   id="rect8089" /></flowRegion><flowPara
+                 id="flowPara8093"
+                 style="font-size:54.5185318px;fill:#808080">Escribir</flowPara></flowRoot>            <flowRoot
+               xml:space="preserve"
+               id="flowRoot8105"
+               style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.75;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;opacity:1;fill:#000000;fill-opacity:1;stroke:none"
+               transform="matrix(0.1024747,0,0,0.10353777,956.90198,345.86231)"><flowRegion
+                 id="flowRegion8101"
+                 style="line-height:1.75"><rect
+                   id="rect8099"
+                   width="586.20825"
+                   height="91.568901"
+                   x="1312"
+                   y="384.00006"
+                   style="line-height:1.75" /></flowRegion><flowPara
+                 style="font-size:54.5185318px"
+                 id="flowPara8103">Escribiendo</flowPara></flowRoot>          </g>
         </g>
       </g>
       <g
