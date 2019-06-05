@@ -25,14 +25,14 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1"
-     inkscape:cx="577.43938"
-     inkscape:cy="1655.3005"
+     inkscape:zoom="0.35355339"
+     inkscape:cx="212.53563"
+     inkscape:cy="1397.3844"
      inkscape:document-units="mm"
-     inkscape:current-layer="g3909"
+     inkscape:current-layer="layer3"
      showgrid="true"
-     inkscape:window-width="1920"
-     inkscape:window-height="1025"
+     inkscape:window-width="1600"
+     inkscape:window-height="845"
      inkscape:window-x="0"
      inkscape:window-y="27"
      inkscape:window-maximized="1"
@@ -52,7 +52,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -74,6 +74,84 @@
            inkscape:groupmode="layer"
            id="layer5"
            inkscape:label="Texto">
+          <g
+             inkscape:groupmode="layer"
+             id="layer3"
+             inkscape:label="Imagen">
+            <g
+               style="display:inline;opacity:1"
+               id="g169"
+               transform="matrix(0.41860468,0,0,0.4194847,-30.426631,42.215317)">
+              <path
+                 style="fill:#dadada;stroke-width:0.30326378"
+                 d="m 112.755,-75.96338 -10e-6,-64.16842 h 92.87415 89.15917 v 67.733332 67.73333 H 204.23603 112.755 Z"
+                 id="path185"
+                 inkscape:connector-curvature="0"
+                 sodipodi:nodetypes="ccccccccc" />
+              <g
+                 id="g190">
+                <path
+                   inkscape:connector-curvature="0"
+                   id="path171"
+                   d="m 169.1688,-39.750728 c -2.63977,-1.030795 -4.9614,-3.770929 -5.50048,-6.491991 -0.17927,-0.904927 -0.23264,-8.602514 -0.18316,-26.416401 l 0.0698,-25.139347 0.74494,-1.64193 c 1.22141,-2.692103 3.54247,-4.592623 6.27939,-5.141653 0.73998,-0.14844 13.55511,-0.21324 33.98171,-0.17184 l 32.79372,0.0665 1.51678,0.77977 c 2.02889,1.04305 3.42619,2.48948 4.33045,4.482702 l 0.73798,1.626703 v 25.755263 25.755264 l -0.70892,1.623512 c -1.07587,2.463896 -2.78762,4.112985 -5.17874,4.989176 -1.02407,0.375251 -3.94446,0.409308 -34.40205,0.401172 -32.11092,-0.0086 -33.32518,-0.02537 -34.48145,-0.476879 z m 69.09425,-3.126246 c 1.06807,-0.625406 1.95419,-1.607352 2.49046,-2.759778 0.7303,-1.56935 0.82754,-5.223378 0.75215,-28.262669 -0.0683,-20.863234 -0.10551,-22.742812 -0.47067,-23.748325 -0.61937,-1.705528 -1.47038,-2.727154 -2.86118,-3.434864 l -1.27321,-0.64786 h -33.15312 -33.15313 l -1.13255,0.56646 c -2.07164,1.03616 -2.89571,2.320656 -3.29917,5.142457 -0.16117,1.127162 -0.21627,9.46433 -0.16667,25.216057 0.0608,19.307722 0.13064,23.699124 0.38916,24.462337 0.59453,1.755242 2.14985,3.320822 3.86715,3.892673 0.31304,0.104243 15.53916,0.170594 33.83582,0.147451 l 33.26666,-0.04208 z m -66.36611,-13.575241 0.0599,-8.070002 7.83413,-6.848113 c 4.30877,-3.76646 8.05336,-6.966934 8.32131,-7.112168 0.43293,-0.234648 0.93146,0.123221 4.47659,3.213532 2.19417,1.912672 4.14498,3.477587 4.33512,3.477587 0.19015,0 5.17531,-4.435409 11.07814,-9.856466 5.90282,-5.421055 10.84607,-9.856477 10.98498,-9.856491 0.13892,-1.2e-5 3.94528,3.608328 8.45859,8.018538 l 8.20601,8.018567 v 13.542507 13.542511 h -31.9073 -31.90731 z m 4.48638,-25.425888 c -2.56772,-0.847577 -4.54005,-3.744912 -4.54005,-6.669311 0,-3.703787 2.89344,-6.891255 6.26091,-6.897137 2.72089,-0.0049 4.78153,1.341558 5.92074,3.868267 1.64169,3.641232 -0.0588,8.270766 -3.50614,9.54542 -1.07991,0.399295 -3.15623,0.475992 -4.13546,0.152761 z"
+                   style="fill:#c0c0c0;stroke-width:0.23654674" />
+              </g>
+            </g>
+          </g>
+          <g
+             style="display:inline"
+             inkscape:label="Párrafo"
+             id="g59"
+             inkscape:groupmode="layer">
+            <flowRoot
+               xml:space="preserve"
+               id="flowRoot57"
+               style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+               transform="matrix(0.26458333,0,0,0.26458333,0,-109.39977)"><flowRegion
+                 id="flowRegion53"><rect
+                   id="rect51"
+                   width="1920"
+                   height="64"
+                   x="63.999996"
+                   y="64.000061" /></flowRegion><flowPara
+                 id="flowPara55"
+                 style="font-weight:bold;font-size:24.00000191px">Titular 6</flowPara></flowRoot>            <g
+               id="g75"
+               transform="matrix(0.64310263,0,0,1,6.0143655,0)">
+              <rect
+                 ry="0"
+                 y="-62.650101"
+                 x="16.933332"
+                 height="4.0502715"
+                 width="118.61485"
+                 id="rect61"
+                 style="opacity:1;fill:#000000;stroke:#000000;stroke-width:0.18306175" />
+              <rect
+                 style="opacity:1;fill:#000000;stroke:#000000;stroke-width:0.17634209"
+                 id="rect63"
+                 width="110.06666"
+                 height="4.0502715"
+                 x="16.933332"
+                 y="-54.183437"
+                 ry="0" />
+              <rect
+                 style="opacity:1;fill:#000000;stroke:#000000;stroke-width:0.18306175"
+                 id="rect65"
+                 width="118.61485"
+                 height="4.0502715"
+                 x="16.851807"
+                 y="-45.71677"
+                 ry="0" />
+              <rect
+                 style="opacity:1;fill:#000000;stroke:#000000;stroke-width:0.07733111"
+                 id="rect69"
+                 width="21.16666"
+                 height="4.0502715"
+                 x="16.933338"
+                 y="-37.433167"
+                 ry="0" />
+            </g>
+          </g>
           <g
              inkscape:groupmode="layer"
              id="layer7"
