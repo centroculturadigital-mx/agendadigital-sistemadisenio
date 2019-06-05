@@ -26,11 +26,11 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1"
-     inkscape:cx="4282.1791"
-     inkscape:cy="996.31774"
+     inkscape:zoom="0.70710678"
+     inkscape:cx="4572.7119"
+     inkscape:cy="-388.41856"
      inkscape:document-units="px"
-     inkscape:current-layer="layer49"
+     inkscape:current-layer="g2765"
      showgrid="true"
      inkscape:window-width="1920"
      inkscape:window-height="1025"
@@ -1864,11 +1864,10 @@ uuOuisiEkEvDscjpRkhZ2PmaoHQbTinAP/R//9k=
              id="g2765"
              inkscape:label="Iframe">
             <g
-               id="g2832"
-               transform="translate(-58.208336,26.458334)">
+               id="g11886">
               <rect
-                 y="164.87158"
-                 x="152.97342"
+                 y="191.32991"
+                 x="94.765083"
                  height="42.333332"
                  width="76.199997"
                  id="rect2763"
@@ -1878,10 +1877,10 @@ uuOuisiEkEvDscjpRkhZ2PmaoHQbTinAP/R//9k=
                  id="rect2745"
                  width="76.199997"
                  height="42.333332"
-                 x="152.97342"
-                 y="164.87158" />
+                 x="94.765083"
+                 y="191.32991" />
               <flowRoot
-                 transform="matrix(0.52838152,0,0,0.52838152,125.63844,138.07475)"
+                 transform="matrix(0.52838152,0,0,0.52838152,67.430104,164.53308)"
                  style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;opacity:1;fill:#c0c0c0;fill-opacity:1;stroke:none"
                  id="flowRoot2753"
                  xml:space="preserve"><flowRegion
@@ -1895,6 +1894,35 @@ uuOuisiEkEvDscjpRkhZ2PmaoHQbTinAP/R//9k=
                      id="rect2747" /></flowRegion><flowPara
                    style="font-weight:bold;font-size:26.66666985px;fill:#c0c0c0;fill-opacity:1"
                    id="flowPara2751">IFRAME</flowPara></flowRoot>            </g>
+            <g
+               transform="translate(966.28994,-474.97092)"
+               style="display:inline"
+               id="g11937">
+              <g
+                 id="g11905">
+                <rect
+                   y="906.03424"
+                   x="252.90999"
+                   height="31.036779"
+                   width="67.45356"
+                   id="rect11860"
+                   style="display:inline;opacity:1;fill:#cccccc;stroke:#cccccc;stroke-width:1.05833328;stroke-miterlimit:4;stroke-dasharray:none" />
+                <flowRoot
+                   xml:space="preserve"
+                   id="flowRoot2753-6"
+                   style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;opacity:1;fill:#c0c0c0;fill-opacity:1;stroke:none;stroke-width:1.28773582"
+                   transform="matrix(0.41031829,0,0,0.41031829,230.42946,884.61952)"><flowRegion
+                     id="flowRegion2749-0"
+                     style="fill:#c0c0c0;fill-opacity:1;stroke-width:1.28773582"><rect
+                       id="rect2747-4"
+                       width="144.22569"
+                       height="50.763683"
+                       x="63.999996"
+                       y="64.000061"
+                       style="fill:#c0c0c0;fill-opacity:1;stroke-width:1.28773582" /></flowRegion><flowPara
+                     id="flowPara2751-1"
+                     style="font-weight:bold;font-size:26.66666985px;fill:#c0c0c0;fill-opacity:1;stroke-width:1.28773582">CAPTCHA</flowPara></flowRoot>              </g>
+            </g>
           </g>
           <g
              inkscape:groupmode="layer"
