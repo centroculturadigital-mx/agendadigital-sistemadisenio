@@ -11,12 +11,14 @@
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    width="210mm"
-   height="297mm"
-   viewBox="0 0 793.7007874 1122.519685"
+   height="308mm"
+   viewBox="0 0 793.70079 1164.0942"
    version="1.1"
    id="svg9308"
    sodipodi:docname="sistema-diseño-simbolos.svg"
    inkscape:version="0.92.3 (2405546, 2018-03-11)">
+  <title
+     id="title4172">Agenda Digital - Sistema de Diseño</title>
   <defs
      id="defs9302">
     <symbol
@@ -133,22 +135,64 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title>Agenda Digital - Sistema de Diseño</dc:title>
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>furenku</dc:title>
+          </cc:Agent>
+        </dc:creator>
+        <dc:rights>
+          <cc:Agent>
+            <dc:title>CC</dc:title>
+          </cc:Agent>
+        </dc:rights>
+        <cc:license
+           rdf:resource="http://creativecommons.org/licenses/by-nc-sa/4.0/" />
       </cc:Work>
+      <cc:License
+         rdf:about="http://creativecommons.org/licenses/by-nc-sa/4.0/">
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Reproduction" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Distribution" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#Notice" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#Attribution" />
+        <cc:prohibits
+           rdf:resource="http://creativecommons.org/ns#CommercialUse" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#ShareAlike" />
+      </cc:License>
     </rdf:RDF>
   </metadata>
   <g
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
-     id="layer1">
+     id="layer1"
+     transform="translate(0,41.574807)">
     <use
        xlink:href="#symbol15675"
-       id="use15681" />
+       id="use15681"
+       x="0"
+       y="0"
+       width="100%"
+       height="100%" />
     <use
        xlink:href="#symbol15787"
-       id="use15793" />
+       id="use15793"
+       x="0"
+       y="0"
+       width="100%"
+       height="100%" />
     <use
        xlink:href="#g22842"
-       id="use22912" />
+       id="use22912"
+       x="0"
+       y="0"
+       width="100%"
+       height="100%" />
   </g>
 </svg>

@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="315.54343"
+   height="226.24397"
+   viewBox="0 0 83.487529 59.860386"
+   version="1.1"
+   id="svg55325"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)"
+   sodipodi:docname="test.svg"
+   inkscape:export-filename="/home/furenku/chamba/CCD/Proyectos/JCF/Diseño/componentes.png"
+   inkscape:export-xdpi="144"
+   inkscape:export-ydpi="144">
+  <defs
+     id="defs55319" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#eeeeee"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1.4706667"
+     inkscape:cx="20.630035"
+     inkscape:cy="16.050375"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1920"
+     inkscape:window-height="1025"
+     inkscape:window-x="0"
+     inkscape:window-y="27"
+     inkscape:window-maximized="1"
+     units="px" />
+  <metadata
+     id="metadata55322">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-581.47681,-87.804626)">
+    <rect
+       inkscape:export-ydpi="96.002388"
+       inkscape:export-xdpi="96.002388"
+       inkscape:export-filename="/home/furenku/chamba/CCD/Proyectos/JCF/Wireframes/movil/prototipo/02-inicio.png"
+       y="87.804626"
+       x="581.47681"
+       height="59.860386"
+       width="83.487534"
+       id="rect56828"
+       style="display:inline;opacity:1;fill:#008080;fill-opacity:1;stroke:none;stroke-width:1.179129;stroke-miterlimit:4;stroke-dasharray:none" />
+    <flowRoot
+       transform="matrix(0.26458333,0,0,0.26458333,568.50905,70.515125)"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;"
+       id="flowRoot17403"
+       xml:space="preserve"
+       inkscape:export-filename="/home/furenku/chamba/CCD/Proyectos/JCF/Wireframes/movil/prototipo/08-trabajo.png"
+       inkscape:export-xdpi="95.089996"
+       inkscape:export-ydpi="95.089996"><flowRegion
+         id="flowRegion17399"
+         style="fill:#ffffff;"><rect
+           y="64.000061"
+           x="63.999996"
+           height="243.23138"
+           width="296.66129"
+           id="rect17397"
+           style="fill:#ffffff;" /></flowRegion><flowPara
+         id="flowPara17401"
+         style="font-weight:normal;font-size:21.33333778px;fill:#ffffff;">Nombre Autor</flowPara></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot17607"
+       style="font-style:normal;font-weight:normal;font-size:21.33333397px;line-height:1.5;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#ffffff;fill-opacity:1;stroke:none;"
+       transform="matrix(0.26458333,0,0,0.26458333,-70.553919,-172.03964)"
+       inkscape:export-filename="/home/furenku/chamba/CCD/Proyectos/JCF/Wireframes/movil/prototipo/08-trabajo.png"
+       inkscape:export-xdpi="95.089996"
+       inkscape:export-ydpi="95.089996"><flowRegion
+         id="flowRegion17609"
+         style="fill:#ffffff;fill-opacity:1;"><rect
+           id="rect17611"
+           width="189.85132"
+           height="156.72156"
+           x="2581.1487"
+           y="1058.2784"
+           style="fill:#ffffff;fill-opacity:1;" /></flowRegion><flowPara
+         id="flowPara17613"
+         style="font-size:17.33333397px;fill:#ffffff;">Nombre Completo del Centro de Secretaría de Cultura</flowPara></flowRoot>    <g
+       style="display:inline;opacity:1;stroke-width:3.5999999"
+       id="g7002-3"
+       transform="matrix(0.11627907,0,0,0.11337425,573.56005,128.73796)"
+       inkscape:export-filename="/home/furenku/chamba/CCD/Proyectos/JCF/Wireframes/movil/prototipo/08-trabajo.png"
+       inkscape:export-xdpi="95.089996"
+       inkscape:export-ydpi="95.089996">
+      <path
+         style="fill:#dadada;stroke-width:1.09174967"
+         d="m 112.755,-75.96338 -10e-6,-91.59107 h 92.87415 89.15917 v 95.155982 91.541322 H 204.23603 112.755 Z"
+         id="path6996-3"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="ccccccccc" />
+      <g
+         id="g7000-7"
+         style="fill:#c0c0c0;fill-opacity:1;stroke-width:3.5999999">
+        <path
+           inkscape:connector-curvature="0"
+           id="path6998-4"
+           d="m 169.1688,-39.750728 c -2.63977,-1.030795 -4.9614,-3.770929 -5.50048,-6.491991 -0.17927,-0.904927 -0.23264,-8.602514 -0.18316,-26.416401 l 0.0698,-25.139347 0.74494,-1.64193 c 1.22141,-2.692103 3.54247,-4.592623 6.27939,-5.141653 0.73998,-0.14844 13.55511,-0.21324 33.98171,-0.17184 l 32.79372,0.0665 1.51678,0.77977 c 2.02889,1.04305 3.42619,2.48948 4.33045,4.482702 l 0.73798,1.626703 v 25.755263 25.755264 l -0.70892,1.623512 c -1.07587,2.463896 -2.78762,4.112985 -5.17874,4.989176 -1.02407,0.375251 -3.94446,0.409308 -34.40205,0.401172 -32.11092,-0.0086 -33.32518,-0.02537 -34.48145,-0.476879 z m 69.09425,-3.126246 c 1.06807,-0.625406 1.95419,-1.607352 2.49046,-2.759778 0.7303,-1.56935 0.82754,-5.223378 0.75215,-28.262669 -0.0683,-20.863234 -0.10551,-22.742812 -0.47067,-23.748325 -0.61937,-1.705528 -1.47038,-2.727154 -2.86118,-3.434864 l -1.27321,-0.64786 h -33.15312 -33.15313 l -1.13255,0.56646 c -2.07164,1.03616 -2.89571,2.320656 -3.29917,5.142457 -0.16117,1.127162 -0.21627,9.46433 -0.16667,25.216057 0.0608,19.307722 0.13064,23.699124 0.38916,24.462337 0.59453,1.755242 2.14985,3.320822 3.86715,3.892673 0.31304,0.104243 15.53916,0.170594 33.83582,0.147451 l 33.26666,-0.04208 z m -66.36611,-13.575241 0.0599,-8.070002 7.83413,-6.848113 c 4.30877,-3.76646 8.05336,-6.966934 8.32131,-7.112168 0.43293,-0.234648 0.93146,0.123221 4.47659,3.213532 2.19417,1.912672 4.14498,3.477587 4.33512,3.477587 0.19015,0 5.17531,-4.435409 11.07814,-9.856466 5.90282,-5.421055 10.84607,-9.856477 10.98498,-9.856491 0.13892,-1.2e-5 3.94528,3.608328 8.45859,8.018538 l 8.20601,8.018567 v 13.542507 13.542511 h -31.9073 -31.90731 z m 4.48638,-25.425888 c -2.56772,-0.847577 -4.54005,-3.744912 -4.54005,-6.669311 0,-3.703787 2.89344,-6.891255 6.26091,-6.897137 2.72089,-0.0049 4.78153,1.341558 5.92074,3.868267 1.64169,3.641232 -0.0588,8.270766 -3.50614,9.54542 -1.07991,0.399295 -3.15623,0.475992 -4.13546,0.152761 z"
+           style="fill:#c0c0c0;fill-opacity:1;stroke-width:0.85156828" />
+      </g>
+    </g>
+    <flowRoot
+       inkscape:export-ydpi="95.089996"
+       inkscape:export-xdpi="95.089996"
+       inkscape:export-filename="/home/furenku/chamba/CCD/Proyectos/JCF/Wireframes/movil/prototipo/08-trabajo.png"
+       xml:space="preserve"
+       id="flowRoot21686"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;"
+       transform="matrix(0.26458333,0,0,0.26458333,569.16223,114.14064)"><flowRegion
+         style="fill:#ffffff;"
+         id="flowRegion21682"><rect
+           style="fill:#ffffff;"
+           id="rect21680"
+           width="226.83286"
+           height="47.383514"
+           x="63.999996"
+           y="64.000061" /></flowRegion><flowPara
+         id="flowPara21684"
+         style="font-weight:normal;font-size:17.33333397px;fill:#ffffff;">Nombre del Estado</flowPara></flowRoot>  </g>
+</svg>
